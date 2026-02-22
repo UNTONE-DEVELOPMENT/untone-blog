@@ -183,4 +183,4 @@ With up-beat chopped-vocal-oriented elements, *Sexy Little Misfit* by *DAVR* is 
 
 ## UNTONE Music: Best of 2024 is out now on all streaming services!
 
-<iframe src="https://untonemusic.com/embed/links/best-of-2024" onload="resizeIframe(this)" height=200></iframe>
+<iframe src="https://legacy.untonemusic.com/embed/links/best-of-2024" onload="resizeIframe(this)" height=200></iframe>
