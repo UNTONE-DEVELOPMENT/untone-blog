@@ -2,7 +2,7 @@
 title: How we helped NETRO refresh their brand identity
 flair: Our process and thoughts behind the designs, colours, fonts, and more.
 tags: design
-date: 2026-02-24 00:00:00
+date: 2056-02-24 00:00:00
 author: Tanza
 ---
 
